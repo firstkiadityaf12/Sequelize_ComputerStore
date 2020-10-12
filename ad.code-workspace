@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp\\htdocs\\Restoran"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\BelajarBootsrap"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\Penyumbangan"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\Perpustakaan"
+		},
+		{
+			"path": "E:\\TUGAS\\Javascript\\javascriptdasar"
+		},
+		{
+			"path": "..\\..\\NodeJs\\RestAPI_MySql"
+		},
+		{
+			"path": "..\\..\\NodeJs\\RestAPI-Upload"
+		},
+		{
+			"path": "..\\react1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "E:\\FIRSTKI\\3. Competition\\Kognitif"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Penyumbangan"
+	}
+}
